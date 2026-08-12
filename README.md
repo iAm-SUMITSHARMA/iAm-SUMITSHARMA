@@ -75,13 +75,6 @@ Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Graphs �
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iAm-SUMITSHARMA&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>Build. Solve. Learn. Repeat.</i>
