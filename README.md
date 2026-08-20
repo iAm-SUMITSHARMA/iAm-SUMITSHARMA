@@ -49,7 +49,7 @@ QR-based **food ordering system** with an admin dashboard, built using the MERN 
 
 ## 🧠 Data Structures & Algorithms
 
-💻 **C++** &nbsp; • &nbsp; 🧩 **190+ LeetCode Problems**
+💻 **C++** &nbsp; • &nbsp; 🧩 **200+ LeetCode Problems**
 
 Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Graphs • Heaps • Tries • Greedy • DP
 
